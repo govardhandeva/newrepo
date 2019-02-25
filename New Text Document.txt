@@ -1,0 +1,31 @@
+ustlsuce2ep01.sabre.com
+172.29.202.231
+ustlsuce2ep02.sabre.com:172.29.202.235
+
+N-C01280586_ PROD- Data Wipe on server USTLSUCE2EP01 and USTLSUCE2EP02 - Phase III of Decommissioning # 511619_Completed
+N-C01271611_PROD|Minimum 7 business days shutdown | PHASE-2 of DECOM | Servers USTLSUCE2EP01 and USTLSUCE2EP02 # 511619_Completed
+
+
+
+
+SGFVWC102
+
+
+10.201.3.159
+10.208.244.237
+10.200.25.238
+
+
+ 172.29.202.231  ustlsuce2ep01.sabre.com
+
+
+N-C01280586_ PROD- Data Wipe on server USTLSUCE2EP01 Phase III of Decommissioning # 511619_Completed. N-C01271611_PROD|Minimum 7 business days shutdown | PHASE-2 of DECOM | Servers USTLSUCE2EP01 # 511619_Completed 
+Please remove the DNS host entries
+   
+
+10.201.3.159  sgfvwc102-ipsn.sabre.com
+10.208.244.237  sgfvwc102.sabre.com
+10.200.25.238  sgfvwc102.mgmt.sabre.com  
+
+CHG0375936 _CERT - Data Wipe on server(s) RITM0139022_STEHWC201, Phase III of Decommission _Completed.
+   
